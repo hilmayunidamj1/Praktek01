@@ -32,5 +32,10 @@ public class KerudungAksi {
         C.Model="Pasmina";
         C.Jenis_Kain="Sutra";
         C.Merk="Dian Pelangi";
+        
+        A.cetakInfo();
+        System.out.println();
+        B.cetakInfo();
+        System.out.println();
     }
 }
