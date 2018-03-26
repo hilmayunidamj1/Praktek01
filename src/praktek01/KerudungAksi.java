@@ -11,6 +11,8 @@ package praktek01;
  */
 public class KerudungAksi {
     public static void main(String[] args) {
-        
+        Kerudung A = new Kerudung();
+        Kerudung B = new Kerudung();
+        Kerudung C = new Kerudung();
     }
 }
