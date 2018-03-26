@@ -10,5 +10,17 @@ package praktek01;
  * @author Asus A456UR
  */
 public class Kerudung {
+    String Warna;
+    String Motif;
+    String Model;
+    String Jenis_Kain;
+    String Merk;
     
+    void cetakInfo(){
+        System.out.println("Warna       :"+Warna);
+        System.out.println("Motif       :"+Motif);
+        System.out.println("Model       :"+Model);
+        System.out.println("Jenis_Kain  :"+Jenis_Kain);
+        System.out.println("Merk        :"+Merk);
+    }
 }
