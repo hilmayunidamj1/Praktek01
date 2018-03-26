@@ -14,5 +14,23 @@ public class KerudungAksi {
         Kerudung A = new Kerudung();
         Kerudung B = new Kerudung();
         Kerudung C = new Kerudung();
+        
+        A.Warna="Hitam";
+        A.Motif="Flowers";
+        A.Model="Syar'i";
+        A.Jenis_Kain="Sifon";
+        A.Merk="ARNIZ";
+        
+        B.Warna="Merah";
+        B.Motif="Polos";
+        B.Model="Segi Empat";
+        B.Jenis_Kain="Katun";
+        B.Merk="Saudia";
+        
+        C.Warna="Merah";
+        C.Motif="Buah Pisang";
+        C.Model="Pasmina";
+        C.Jenis_Kain="Sutra";
+        C.Merk="Dian Pelangi";
     }
 }
